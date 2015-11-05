@@ -1,0 +1,31 @@
+{
+  "name": "node_classpath_builder",
+  "version": "0.0.1",
+  "description": "Java classpath builder",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+	"mocha":"1.21.3"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asnir/node_classpath_builder.git"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "node",
+    "java",
+    "classpath"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
